@@ -2,13 +2,13 @@
 actor_ids:
   - alice
   - bob
-audio_file_path: /audio/マーケット・トレンド（2019.8.29木曜日）.mp3
+audio_file_path: /audio/[TBSラジオ]コシノジュンコ MASACA(TimeFree)_20240211170000.m4a
 audio_file_size: 6558
 date: 2026-03-16 00:00:00 +0900
-description: マーケット・トレンド（2019.8.29木曜日）
+description: [TBSラジオ]コシノジュンコ MASACA(TimeFree)_20240211170000
 duration: "13:58"
 layout: article
-title: 1. マーケット・トレンド
+title: 2. コシノジュンコ MASACA(TimeFree)_20240211170000
 ---
 
 ## 関連リンク
