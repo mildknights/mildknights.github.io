@@ -8,8 +8,8 @@ actors:
     name: bob
     url: http://sns.example.com/bob
 author: alice
-description: podcast
-description_long: Example long description
+description: Nippon Broadcast
+description_long: Nippon Bradcast 
 email: info@example.com
 exclude:
   - docker
@@ -29,5 +29,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Ijuin
+title: Seed on Ijyuin
 url: http://example.com
